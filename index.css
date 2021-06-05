@@ -22,12 +22,20 @@ h1 {
   font-size: 7rem;
   color: #4ECCA3;
 }
+h3 {
+  color: red;
+  font-size: 2rem;
+  text-align: center;
+}
 p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie', cursive;
+  margin: 40px;
 }
-
+a{
+  text-decoration: none;
+}
 img {
   width: 80%;
   border-radius: 30%;
